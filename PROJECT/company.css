@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+  margin: 0.5rem;
+  padding: 0.2rem;
+}
+header h1 {
+  text-align: center;
+  color: blueviolet;
+}
+nav {
+  text-align: right;
+  padding: 0.1rem;
+  margin: 0.2rem;
+}
+nav button {
+  background-color: blueviolet;
+  padding: 0.5rem;
+  color: white;
+  border: 0;
+  margin: 0.456rem;
+  font-weight: bolder;
+}
+.home {
+  border: 1x solid white
+  font-weight: bold;
+  padding: 0.3rem;
+  margin-left: 0.75rem;
+  width: 300;
+}
+.home h2 {
+  text-align: center;
+  font-weight: bolder;
+}
+.about {
+  border: 1px solid white;
+  padding: 0.3rem;
+  margin-left: 0.75rem;
+  width: 300;
+}
+.about h2 {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.service {
+  border: 1px solid white;
+  padding: 0.3rem;
+  margin-left: 0.75rem;
+  width: 300;
+}
+.service h2 {
+  text-align: center;
+  font-weight: bolder;
+}
+.contact {
+  margin-left: 0.75rem;
+  border: 1px solid white;
+}
+.contact h2 {
+  text-align: center;
+}
+footer p {
+  text-align: center;
+}
+.
